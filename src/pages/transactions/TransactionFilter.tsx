@@ -44,7 +44,7 @@ function TransactionFilter({ filter, setFilter }: PropTypes) {
         />
       </FormControl>
       <FormControl>
-        <InputLabel id='type-filter-label'>Age</InputLabel>
+        <InputLabel id='type-filter-label'>Type</InputLabel>
         <Select
           labelId='type-filter-label'
           label='Type'
